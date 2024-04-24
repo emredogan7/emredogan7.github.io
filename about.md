@@ -2,44 +2,13 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+## me, in a nutshell:
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+I am currently working as a backend engineer at [Delivery Hero](https://www.deliveryhero.com/) in Berlin. Before that, I was working at [Plentific](https://www.plentific.com/en-gb/), again as a backend engineer.
 
-<h2>Skills</h2>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Tests)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+I got my bachelor's degree on electrical and electronics engineering in 2018 (from [METU](https://eee.metu.edu.tr/)). The following two years, I had my master's degree in computer science at Bilkent University. In my research studies, I mostly worked on mining software artifacts to get some insights about the non-ideal processes followed during the software development lifecycle. For further details, you can see [my thesis](http://repository.bilkent.edu.tr/bitstream/handle/11693/54183/10361684.pdf?sequence=1&isAllowed=y) and [publications](https://scholar.google.com/citations?user=0QRi1i4AAAAJ&hl=en).
 
-<h2>Projects</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+I've mostly worked with Python backend stack (Django & FastAPI) so far. Additionally, I have a strong interest in system infrastructure. I possess practical experience with tools like Terraform, Helm charts, and Kubernetes, particularly within the context of Google Cloud Platform.
